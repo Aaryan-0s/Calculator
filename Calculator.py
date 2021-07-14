@@ -7,13 +7,14 @@ root.title("                                            Calculator")
 root.geometry("425x433")
 root.resizable(0,0)
 root.config(bg="black")
-root.iconbitmap("D:\img2.ico")
+root.iconbitmap(r"C:\Users\aaryan\PycharmProjects\Calculator\img2.ico")
 
 #making the place for entering the numbers
 e=Entry(root,width=30,borderwidth=5,bg="blue",fg="yellow",border=0,font="times")
 e.grid(row=0,column=0,columnspan=4,padx=10,pady=10,ipady=10)
 
 #adding a function
+
 def button_num(value):
     current=e.get()
     e.delete(0, END)
