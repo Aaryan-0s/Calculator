@@ -1,0 +1,3 @@
+# Calculator
+This is the calculator ive made for my assignment .
+THIS IS A SIMPLE CALCULATOR HAVING FUCNTION OF ADDITION ,SUBTRACTION , MULTIPICATION AND DIVISION
