@@ -1,3 +1,11 @@
 # Calculator
+-----------------
+Introduction
+-----------------
 This is the calculator ive made for my assignment .
-THIS IS A SIMPLE CALCULATOR HAVING FUNCTION OF ADDITION ,SUBTRACTION , MULTIPICATION AND DIVISION
+
+----------------
+Features
+-----------------
+It has addition ,subtraction ,multiplication and divsion buttons
+It also has a clear button to remove the data on the screen 
