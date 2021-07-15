@@ -1,11 +1,12 @@
-# Calculator
------------------
-Introduction
------------------
-This is the calculator ive made for my assignment .
+# Introduction
+*This is a simple calculator which was made using Tkinter*
 
-----------------
-Features
------------------
-It has addition ,subtraction ,multiplication and divsion buttons
-It also has a clear button to remove the data on the screen 
+# Features
+* **This program can do simple calculations**
+* **This program changes its highlight color when button is pressed**
+* **This program can do decimal calculations**
+
+##### Aaryan basnet
+##### Student id :210288
+##### Batch 30B
+##### Email:aaryanbasnet16@gmail.com
