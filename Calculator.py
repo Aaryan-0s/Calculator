@@ -4,8 +4,8 @@ from tkinter import  *
 #making the canvas
 root= Tk()
 root.title("                                            Calculator")
-#root.geometry("425x433")
-#root.resizable(0,0)
+root.geometry("425x433")
+root.resizable(0,0)
 root.config(bg="black")
 root.iconbitmap("img2.ico")
 
