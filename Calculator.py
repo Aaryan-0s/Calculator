@@ -4,7 +4,7 @@ from tkinter import  *
 #making the canvas
 root= Tk()
 root.title("                                            Calculator")
-root.geometry("425x433")
+root.geometry("436x458")
 root.resizable(0,0)
 root.config(bg="black")
 root.iconbitmap("img2.ico")
@@ -18,7 +18,6 @@ e.grid(row=0,column=0,columnspan=4,padx=10,pady=10,ipady=10)
 def button_num(value):
     current=e.get()
     e.delete(0, END)
-
     e.insert(0,str(current)+str(value))
 
 def clear():
@@ -123,7 +122,7 @@ button_dot.grid(row=4,column=0,ipadx=42,ipady=20)
 button_div.grid(row=4,column=2,ipadx=42,ipady=20)
 button_add.grid(row=5,column=0,ipadx=39,ipady=20)
 button_mult.grid(row=5,column=1,ipadx=41,ipady=20)
-button_equal.grid(row=1,column=3,rowspan=4,ipadx=40,ipady=133)
+button_equal.grid(row=1,column=3,rowspan=4,ipadx=42,ipady=138)
 button_clear.grid(row=5,column=3,ipadx=35,ipady=20)
 
 
